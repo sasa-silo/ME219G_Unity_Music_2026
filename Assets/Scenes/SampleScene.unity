@@ -360,7 +360,7 @@ MonoBehaviour:
       Data2: 1135213807
       Data3: 925227913
       Data4: 110981814
-    Path: event:/Ambiance/Ambiance_Indoor_Cave
+    Path: event:/SFX/Ambiance/Ambiance_Indoor_Cave
   Event: 
   EventPlayTrigger: 1
   EventStopTrigger: 12

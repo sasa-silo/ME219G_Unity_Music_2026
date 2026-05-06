@@ -241,7 +241,7 @@ MonoBehaviour:
       Data2: 1225456052
       Data3: 1076731264
       Data4: -724260907
-    Path: event:/Ambiance/Ambiance_Manager
+    Path: event:/SFX/Ambiance/Ambiance_Manager
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
@@ -332,70 +332,70 @@ MonoBehaviour:
       Data2: 1253640006
       Data3: -1693451089
       Data4: 1499706986
-    Path: event:/Player/Player_Footsteps
+    Path: event:/SFX/Player/Player_Footsteps
   playerJump:
     Guid:
       Data1: 823691816
       Data2: 1311503626
       Data3: 2057113764
       Data4: 2065171117
-    Path: event:/Player/Player_Jump
+    Path: event:/SFX/Player/Player_Jump
   playerLand:
     Guid:
       Data1: -1249113631
       Data2: 1149918638
       Data3: -1969184085
       Data4: -1284329003
-    Path: event:/Player/Player_Land
+    Path: event:/SFX/Player/Player_Land
   playerAttackMelee:
     Guid:
       Data1: -1267137789
       Data2: 1134634127
       Data3: -2011277647
       Data4: -799242560
-    Path: event:/Player/Player_Attack_Melee
+    Path: event:/SFX/Player/Player_Attack_Melee
   playerAttackRanged:
     Guid:
       Data1: 1179602920
       Data2: 1175599422
       Data3: 1304373913
       Data4: -38752512
-    Path: event:/Player/Player_Attack_Ranged
+    Path: event:/SFX/Player/Player_Attack_Ranged
   playerHurt:
     Guid:
       Data1: -38250884
       Data2: 1277662103
       Data3: 256784558
       Data4: 1281280920
-    Path: event:/Player/Player_Damage_Generic
+    Path: event:/SFX/Player/Player_Damage_Generic
   wallDestroy:
     Guid:
       Data1: -827916814
       Data2: 1332020858
       Data3: 199711108
       Data4: -840402789
-    Path: event:/Objects & Interactables/Object_Wall_Destruct
+    Path: event:/SFX/Objects & Interactables/Object_Wall_Destruct
   pickupHealth:
     Guid:
       Data1: 712891913
       Data2: 1209131496
       Data3: 1573540282
       Data4: -1250670388
-    Path: event:/Objects & Interactables/Object_Pickup_Health
+    Path: event:/SFX/Objects & Interactables/Object_Pickup_Health
   doorSwitch:
     Guid:
       Data1: -814039136
       Data2: 1318593306
       Data3: -1741669712
       Data4: -975004630
-    Path: event:/Objects & Interactables/Object_Switch_Trigger
+    Path: event:/SFX/Objects & Interactables/Object_Switch_Trigger
   doorOpen:
     Guid:
       Data1: 1917241597
       Data2: 1087232114
       Data3: 1108743825
       Data4: 437067952
-    Path: event:/Objects & Interactables/Object_Door_Open
+    Path: event:/SFX/Objects & Interactables/Object_Door_Open
   pickupKey:
     Guid:
       Data1: 0
@@ -409,63 +409,63 @@ MonoBehaviour:
       Data2: 1128250594
       Data3: 692146863
       Data4: 2101790563
-    Path: event:/Objects & Interactables/Obejct_Pressure_Plate
+    Path: event:/SFX/Objects & Interactables/Obejct_Pressure_Plate
   acidSplash:
     Guid:
       Data1: -1008016355
       Data2: 1152753787
       Data3: 1969744056
       Data4: -1878216579
-    Path: event:/Ambiance/Ambiance_Acid_Pool_Splash
+    Path: event:/SFX/Ambiance/Ambiance_Acid_Pool_Splash
   boxPush:
     Guid:
       Data1: -561574307
       Data2: 1088967336
       Data3: -769547608
       Data4: 1725292411
-    Path: event:/Objects & Interactables/Object_Box_Push
+    Path: event:/SFX/Objects & Interactables/Object_Box_Push
   menuClick:
     Guid:
       Data1: -113714920
       Data2: 1277964438
       Data3: -2037248096
       Data4: -91950419
-    Path: event:/UI/Menu_Button_Generic
+    Path: event:/SFX/UI/Menu_Button_Generic
   menuStartGame:
     Guid:
       Data1: -1015308169
       Data2: 1143757789
       Data3: -2038144630
       Data4: -517665067
-    Path: event:/UI/Menu_Button_GameStart
+    Path: event:/SFX/UI/Menu_Button_GameStart
   enemyFootstep:
     Guid:
       Data1: 582591695
       Data2: 1200421813
       Data3: -1175351151
       Data4: 1125859264
-    Path: event:/Enemies/Chomper/Enemy_Chomper_Footstep
+    Path: event:/SFX/Enemies/Chomper/Enemy_Chomper_Footstep
   enemyRanged:
     Guid:
       Data1: -50486130
       Data2: 1216258166
       Data3: -1805880958
       Data4: -296837291
-    Path: event:/Enemies/Spitter/Enemy_Spitter_Attack_Ranged
+    Path: event:/SFX/Enemies/Spitter/Enemy_Spitter_Attack_Ranged
   enemyMelee:
     Guid:
       Data1: 1880109072
       Data2: 1082312611
       Data3: -1877202267
       Data4: -143679638
-    Path: event:/Enemies/Chomper/Enemy_Chomper_Attack_Melee
+    Path: event:/SFX/Enemies/Chomper/Enemy_Chomper_Attack_Melee
   enemyDeath:
     Guid:
       Data1: 239518886
       Data2: 1219923912
       Data3: -564437090
       Data4: -914482641
-    Path: event:/Enemies/Enemy_Die
+    Path: event:/SFX/Enemies/Enemy_Die
   stingerGameOver:
     Guid:
       Data1: 0
@@ -481,6 +481,13 @@ MonoBehaviour:
       Data4: 0
     Path: 
   stingerWeaponPickup:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+  stingerPuzzleSolved:
     Guid:
       Data1: 0
       Data2: 0
@@ -541,7 +548,7 @@ MonoBehaviour:
       Data2: 1221656319
       Data3: 921611948
       Data4: -448920582
-    Path: event:/Ambiance/Ambiance_Outdoor_Jungle
+    Path: event:/SFX/Ambiance/Ambiance_Outdoor_Jungle
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0

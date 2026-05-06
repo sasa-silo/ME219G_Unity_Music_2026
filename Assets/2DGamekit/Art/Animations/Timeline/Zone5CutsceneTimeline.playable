@@ -48,7 +48,7 @@ MonoBehaviour:
       Data2: 1170670127
       Data3: 228011912
       Data4: 1353497819
-    Path: event:/Enemies/Gunner/Enemy_Gunner_Intro_Cutscene
+    Path: event:/SFX/Enemies/Gunner/Enemy_Gunner_Intro_Cutscene
   StopType: 0
   Parameters: []
 --- !u!114 &-3883662182069598218
